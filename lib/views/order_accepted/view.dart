@@ -21,7 +21,7 @@ class orderacceptedView extends StatelessWidget {
           children: [
             Spacer(),
             Image.asset(
-              'Group 6872'.assetPNG,gi
+              'Group 6872'.assetPNG,
               height: 240.height,
               width: 269.width,
             ),
