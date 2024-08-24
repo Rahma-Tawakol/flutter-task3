@@ -18,7 +18,7 @@ class _SplashViewState extends State<SplashView> {
   @override
   void initState() {
     Timer(Duration(seconds: 3), () {
-      RouteUtils.pushAndRemoveAll(context, orderacceptedView());
+      RouteUtils.pushAndRemoveAll(context, OrderAcceptedView());
     });
     super.initState();
   }

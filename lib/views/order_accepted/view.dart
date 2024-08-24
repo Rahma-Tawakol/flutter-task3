@@ -8,8 +8,8 @@ import 'package:task3/widgets/app_button.dart';
 import 'package:task3/widgets/app_text.dart';
 import '../../core/route_utils/route_utils.dart';
 
-class orderacceptedView extends StatelessWidget {
-  const orderacceptedView({Key? key}) : super(key: key);
+class OrderAcceptedView extends StatelessWidget {
+  const OrderAcceptedView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
